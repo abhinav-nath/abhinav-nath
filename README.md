@@ -1,4 +1,4 @@
-### Hi there I'm Abhinav 👋
+### Hi there, I'm Abhinav 👋🏼
 
 - 🔭 I’m currently working on creating individual projects for most of the technologies used in modern back-end development
 - 🌱 I’m currently learning Kotlin
