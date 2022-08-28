@@ -80,6 +80,6 @@ I'm Abhinav, a frontend engineer from India 🇮🇳, dedicated to being a Full-
 </p>
 
 <p align="center">
-  <a href="https://github.com/abhinav-nath/starred">🌟 Projects starred by me</a><br/><br/>
+  <a href="https://github.com/abhinav-nath?tab=stars">🌟 Projects starred by me</a><br/><br/>
   <img src="https://gpvc.arturio.dev/abhinav-nath" alt="profile views">
 </p>
