@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/do-something-great.gif" alt="Do something great!" width="600")
+  <img src="../assets/do-something-great.gif" alt="Do something great!" width="550")
 </p>
 
 
