@@ -65,8 +65,8 @@ I'm Abhinav, a frontend engineer from India 🇮🇳, dedicated to being a Full-
 ### GitHub Stats
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav-nath&count_private=true&theme=gotham&hide_border=true" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-nath&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhinav-nath&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-nath&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_border=true" width="378" />
 </div>
 
 ### Where to find me
