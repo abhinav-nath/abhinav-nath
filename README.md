@@ -75,12 +75,11 @@ I'm Abhinav, a frontend engineer from India 🇮🇳, dedicated to being a Full-
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/abhinav_nath)
 
 
-#### [🌟 Projects starred by me](https://github.com/abhinav-nath/starred)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
 <p align="center">
+  <a href="https://github.com/abhinav-nath/starred">🌟 Projects starred by me</a><br/><br/>
   <img src="https://gpvc.arturio.dev/abhinav-nath" alt="profile views">
 </p>
