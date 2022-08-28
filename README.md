@@ -5,7 +5,7 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h2>
 
-I'm Abhinav, a frontend engineer from India 🇮🇳, dedicated to being a Full-stack Engineer and a Software Architect.
+I'm Abhinav, a backend engineer from India 🇮🇳, dedicated to being a full-stack engineer and a software architect.
 
 
 <details>
