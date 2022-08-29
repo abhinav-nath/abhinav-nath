@@ -19,8 +19,10 @@ I'm Abhinav, a backend engineer from India 🇮🇳, dedicated to being a full-s
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" alt="Spring"/>
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white" alt="Hibernate"/>
     <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka" alt="Apache Kafka"/>
     <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch" alt="ElasticSearch"/>
+    <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white" alt="ElasticSearch"/>
     <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens" alt=""JWT/>
     <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=white" alt="Cassandra"/>
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
