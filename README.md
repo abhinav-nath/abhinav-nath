@@ -9,7 +9,7 @@ I'm Abhinav, a backend engineer from India 🇮🇳, dedicated to being a full-s
 
 
 <details>
-  <summary><b>Tech Stack</b></summary>
+  <summary><b>Tech Stack I have worked on</b></summary>
   <br/>
   <p align="left">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
