@@ -82,6 +82,8 @@ I'm Abhinav, a backend engineer from India 🇮🇳, dedicated to being a full-s
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
+[![@abhinavnath's Holopin board](https://holopin.me/abhinavnath)](https://holopin.io/@abhinavnath)
+
 <p align="center">
   <a href="https://github.com/abhinav-nath?tab=stars">🌟 Projects starred by me</a><br/><br/>
   <img src="https://gpvc.arturio.dev/abhinav-nath" alt="profile views">
