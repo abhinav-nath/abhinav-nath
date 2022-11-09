@@ -73,9 +73,10 @@ I'm Abhinav, a backend engineer from India 🇮🇳, dedicated to being a full-s
 
 ### Where to find me
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/abhinav-nath/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@abhinav-nath)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@abhinav-nath)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-orange?logo=stack-overflow&logoColor=white&style=flat)](https://stackoverflow.com/users/10371864/abhinav) 
-[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/abhinav_nath)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/abhinav_nath)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/a_b.h_i/)
 
 
 <p align="center">
