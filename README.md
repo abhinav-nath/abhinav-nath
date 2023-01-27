@@ -78,7 +78,7 @@ Here is my short dev [portfolio](https://abhinav-nath.github.io/portfolio/).
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@abhinav-nath)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-orange?logo=stack-overflow&logoColor=white&style=flat)](https://stackoverflow.com/users/10371864/abhinav) 
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/abhinav_nath)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_abhinav_nath/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/a.spell.of.pixels/)
 <a href="https://www.chess.com/member/kakarot90">
   <img width="60" src="https://user-images.githubusercontent.com/48696735/208755728-9201a20d-32af-4014-923b-b88763825601.png" />
 </a>
