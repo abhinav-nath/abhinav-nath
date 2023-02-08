@@ -68,12 +68,13 @@ Here is my short dev [portfolio](https://abhinav-nath.github.io/portfolio/).
 
 ### GitHub Stats
 
-<div>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abhinav-nath&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="450" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-nath&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_border=true" width="378" />
 </div>
 
 ### Where to find me
+
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/abhinav-nath/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@abhinav-nath)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-orange?logo=stack-overflow&logoColor=white&style=flat)](https://stackoverflow.com/users/10371864/abhinav) 
@@ -83,15 +84,21 @@ Here is my short dev [portfolio](https://abhinav-nath.github.io/portfolio/).
   <img width="60" src="https://user-images.githubusercontent.com/48696735/208755728-9201a20d-32af-4014-923b-b88763825601.png" />
 </a>
 
+## Holopin Board
 
+[![@abhinavnath's Holopin board](https://holopin.me/abhinavnath)](https://holopin.io/@abhinavnath)
+
+## Random Programming Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Random Programming Quote" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
-[![@abhinavnath's Holopin board](https://holopin.me/abhinavnath)](https://holopin.io/@abhinavnath)
-
 <p align="center">
   <a href="https://github.com/abhinav-nath?tab=stars">🌟 Projects starred by me</a><br/><br/>
-  <img src="https://gpvc.arturio.dev/abhinav-nath" alt="profile views">
+  <img src="https://gpvc.arturio.dev/abhinav-nath" alt="profile views" />
 </p>
