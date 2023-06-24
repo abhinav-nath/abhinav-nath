@@ -100,5 +100,5 @@ Here is my short dev [portfolio](https://abhinav-nath.github.io/portfolio/).
 
 <p align="center">
   <a href="https://github.com/abhinav-nath?tab=stars">🌟 Projects starred by me</a><br/><br/>
-  <img src="https://gpvc.arturio.dev/abhinav-nath" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abhinav-nath&color=red&style=plastic" alt="profile views" />
 </p>
