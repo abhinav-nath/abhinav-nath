@@ -25,8 +25,10 @@ Here is my short dev [portfolio](https://abhinav-nath.github.io/portfolio/).
     <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka" alt="Apache Kafka"/>
     <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch" alt="ElasticSearch"/>
     <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white" alt="Kibana"/>
+    <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" alt="Apache Spark"/>
     <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens" alt=""JWT/>
     <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=white" alt="Cassandra"/>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres"/>
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
