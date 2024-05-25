@@ -97,6 +97,10 @@ Here is my short dev [portfolio](https://abhinav-nath.github.io/portfolio/).
 </p>
 
 <p align="center">
+  <a href="https://buymeacoffee.com/abhinav_nath"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
