@@ -68,6 +68,12 @@ Here is my short dev [portfolio](https://abhinav-nath.github.io/portfolio/).
 - **[Spring Boot | Get your secrets from AWS Secrets Manager](https://medium.com/@abhinav-nath/spring-boot-get-your-secrets-from-aws-secrets-manager-e339403199f9)**
 - **[Building Kafka Producer and Consumer using Python](https://medium.com/@abhinav-nath/building-kafka-producer-and-consumer-using-python-7e1e7ad4d2d1)**
 
+### ⌨️ My latest projects
+
+- **[Java CodeRunner API](https://github.com/abhinav-nath/java-coderunner-api)**
+- **[eBird Recent Observations](https://github.com/abhinav-nath/ebird-recent-observations)**
+- **[Feature Toggles using FF4J](https://github.com/abhinav-nath/feature-toggles-using-ff4j)**
+- **[MongoDB Bulk Operations](https://github.com/abhinav-nath/mongo-bulk-operations-test)**
 
 ### GitHub Stats
 
