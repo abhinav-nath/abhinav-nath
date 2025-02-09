@@ -1,50 +1,110 @@
 [
-    {
-        "fact": "The first computer virus was created in 1986 and was called Brain.",
-        "source": "https://en.wikipedia.org/wiki/Brain_(computer_virus)"
-    },
-    {
-        "fact": "Python is named after 'Monty Python', not the snake.",
-        "source": "https://docs.python.org/3/faq/general.html#why-is-it-called-python"
-    },
-    {
-        "fact": "The first website ever created is still online: http://info.cern.ch",
-        "source": "http://info.cern.ch"
-    },
-    {
-        "fact": "The first mouse prototype was made of wood in 1964 by Douglas Engelbart.",
-        "source": "https://en.wikipedia.org/wiki/Computer_mouse"
-    },
-    {
-        "fact": "NASA's Mars Rover, Perseverance, runs on a PowerPC 750 processor—the same as an old iMac G3.",
-        "source": "https://mars.nasa.gov/resources/24943/perseverance-rover-computer-hardware/"
-    },
-    {
-        "fact": "Google was originally called 'Backrub' before being renamed in 1997.",
-        "source": "https://www.google.com/about/"
-    },
-    {
-        "fact": "The first email was sent by Ray Tomlinson to himself in 1971.",
-        "source": "https://en.wikipedia.org/wiki/Ray_Tomlinson"
-    },
-    {
-        "fact": "Elon Musk's Tesla Roadster, launched into space, is expected to orbit the Sun for millions of years.",
-        "source": "https://www.whereisroadster.com/"
-    },
-    {
-        "fact": "Amazon was originally called 'Cadabra', but was changed because it sounded like 'Cadaver'.",
-        "source": "https://en.wikipedia.org/wiki/Amazon_(company)"
-    },
-    {
-        "fact": "The first smartphone was made in 1992 by IBM. It was called 'Simon' and had a touchscreen.",
-        "source": "https://en.wikipedia.org/wiki/IBM_Simon"
-    },
-    {
-        "fact": "Bill Gates wrote a tic-tac-toe game in BASIC as one of his first programs.",
-        "source": "https://en.wikipedia.org/wiki/Bill_Gates"
-    },
-    {
-        "fact": "The world's first 1GB hard drive was introduced by IBM in 1980. It weighed over 500 pounds.",
-        "source": "https://www.ibm.com/ibm/history/exhibits/storage/storage_3380.html"
-    }
+	{
+		"fact": "The first computer virus was created in 1986 and was called Brain.",
+		"source": "https://en.wikipedia.org/wiki/Brain_(computer_virus)"
+	},
+	{
+		"fact": "Python is named after 'Monty Python', not the snake.",
+		"source": "https://docs.python.org/3/faq/general.html#why-is-it-called-python"
+	},
+	{
+		"fact": "The first website ever created is still online: http://info.cern.ch",
+		"source": "http://info.cern.ch"
+	},
+	{
+		"fact": "The first mouse prototype was made of wood in 1964 by Douglas Engelbart.",
+		"source": "https://en.wikipedia.org/wiki/Computer_mouse"
+	},
+	{
+		"fact": "NASA's Mars Rover, Perseverance, runs on a PowerPC 750 processor—the same as an old iMac G3.",
+		"source": "https://mars.nasa.gov/resources/24943/perseverance-rover-computer-hardware/"
+	},
+	{
+		"fact": "Google was originally called 'Backrub' before being renamed in 1997.",
+		"source": "https://www.google.com/about/"
+	},
+	{
+		"fact": "The first email was sent by Ray Tomlinson to himself in 1971.",
+		"source": "https://en.wikipedia.org/wiki/Ray_Tomlinson"
+	},
+	{
+		"fact": "Elon Musk's Tesla Roadster, launched into space, is expected to orbit the Sun for millions of years.",
+		"source": "https://www.whereisroadster.com/"
+	},
+	{
+		"fact": "Amazon was originally called 'Cadabra', but was changed because it sounded like 'Cadaver'.",
+		"source": "https://en.wikipedia.org/wiki/Amazon_(company)"
+	},
+	{
+		"fact": "The first smartphone was made in 1992 by IBM. It was called 'Simon' and had a touchscreen.",
+		"source": "https://en.wikipedia.org/wiki/IBM_Simon"
+	},
+	{
+		"fact": "Bill Gates wrote a tic-tac-toe game in BASIC as one of his first programs.",
+		"source": "https://en.wikipedia.org/wiki/Bill_Gates"
+	},
+	{
+		"fact": "The world's first 1GB hard drive was introduced by IBM in 1980. It weighed over 500 pounds.",
+		"source": "https://www.ibm.com/ibm/history/exhibits/storage/storage_3380.html"
+	},
+	{
+		"fact": "Java was originally designed for interactive television, but it was too advanced for cable TV in 1991.",
+		"source": "https://en.wikipedia.org/wiki/Java_(programming_language)#History"
+	},
+	{
+		"fact": "The HotSpot JVM uses 'escape analysis' to eliminate unnecessary object allocations and make heap usage more efficient.",
+		"source": "https://blogs.oracle.com/javamagazine/post/escape-analysis-in-the-hotspot-jit-compiler"
+	},
+	{
+		"fact": "The term 'Java bytecode' is misleading because it doesn’t correspond to bytes; some instructions are longer than one byte.",
+		"source": "https://docs.oracle.com/javase/specs/jvms/se8/html/jvms-6.html"
+	},
+	{
+		"fact": "The earliest versions of Java had built-in support for IPv6 before many operating systems fully adopted it.",
+		"source": "https://docs.oracle.com/javase/1.5.0/docs/guide/net/ipv6_guide/"
+	},
+	{
+		"fact": "The Java compiler is written in Java itself, making it a self-hosting compiler.",
+		"source": "https://en.wikipedia.org/wiki/Self-hosting_compiler"
+	},
+	{
+		"fact": "Java supports method overloading based on the number, type, and order of parameters, but not based on the return type alone.",
+		"source": "https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html"
+	},
+	{
+		"fact": "The 'volatile' keyword in Java does not make a variable atomic; it only ensures visibility of changes to multiple threads.",
+		"source": "https://docs.oracle.com/javase/tutorial/essential/concurrency/atomic.html"
+	},
+	{
+		"fact": "The JIT compiler in the JVM can inline methods at runtime, even those that were originally marked as 'virtual'.",
+		"source": "https://openjdk.org/groups/hotspot/docs/RuntimeOverview.html"
+	},
+	{
+		"fact": "Java has a hidden 'Unsafe' class that allows direct memory manipulation, much like C/C++ pointers.",
+		"source": "https://mishadoff.com/blog/java-magic-part-4-sun-dot-misc-dot-unsafe/"
+	},
+	{
+		"fact": "Even though Java has automatic garbage collection, memory leaks are still possible due to improper handling of references.",
+		"source": "https://www.baeldung.com/java-memory-leaks"
+	},
+	{
+		"fact": "Java's 'String' class is immutable, but the JVM internally optimizes string concatenation to avoid excessive object creation.",
+		"source": "https://docs.oracle.com/javase/tutorial/java/data/strings.html"
+	},
+	{
+		"fact": "The Java Virtual Machine (JVM) specification allows multiple different implementations, such as OpenJDK, GraalVM, and Azul Zing.",
+		"source": "https://openjdk.org/"
+	},
+	{
+		"fact": "NullPointerException (NPE) is one of the most common runtime errors in Java, and Java 14 introduced helpful NPE messages to make debugging easier.",
+		"source": "https://openjdk.org/jeps/358"
+	},
+	{
+		"fact": "The 'transient' keyword in Java prevents a field from being serialized, which is useful for security-sensitive data.",
+		"source": "https://docs.oracle.com/javase/8/docs/api/java/io/Serializable.html"
+	},
+	{
+		"fact": "In Java, 'Integer.valueOf()' caches values between -128 and 127 to improve performance and reduce memory usage.",
+		"source": "https://docs.oracle.com/javase/8/docs/api/java/lang/Integer.html#valueOf-int-"
+	}
 ]
