@@ -22,7 +22,7 @@ jobs:
         run: pip install textwrap3  # Ensure required packages are installed
 
       - name: Generate Updated Tech Fact SVG
-        run: python update-tech-fact.py
+        run: python generate_tech_fact_svg.py
 
       - name: Commit and Push Changes
         run: |
