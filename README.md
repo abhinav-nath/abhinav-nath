@@ -103,6 +103,12 @@ Here is my short dev [portfolio](https://abhinav-nath.github.io/portfolio/).
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Random Programming Quote" />
 </p>
 
+## Tech Fact of the day
+
+<p align="center">
+  <img src="https://github.com/abhinav-nath/abhinav-nath/blob/master/tech-fact.svg" alt="Tech Fact of the day" />
+</p>
+
 <p align="center">
   <a href="https://buymeacoffee.com/abhinav_nath"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 </p>
