@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="483" height="128" viewBox="0 0 483 128">
+	<style>
+	    .bubble {
+	      fill: #e9e9eb;
+	      stroke: #dcdcdc;
+	      stroke-width: 2;
+	    }
+	    text {
+	      fill: #242424;
+	      font-size: 18px;
+	      font-family: 'Inter', sans-serif;
+	      letter-spacing: -0.02em;
+	    }
+	    .fact-text {
+	      font-style: italic;
+	    }
+	    @media (prefers-color-scheme: dark) {
+	      .bubble {
+	        fill: #3b3b3d;
+	        stroke: #5a5a5c;
+	      }
+	      text {
+	        fill: #dcdcdc;
+	      }
+	    }
+	</style>
+
+	<g>
+	    <!-- Background Box -->
+	    <rect class="bubble" x="10" y="10" width="463" height="118" rx="15"/>
+
+	    <!-- Tech Fact -->
+	    <text class="fact-text" x="30" y="60">The first website ever created is still online:</text>
+<text class="fact-text" x="30" y="84">http://info.cern.ch</text>
+
+	</g>
+</svg>

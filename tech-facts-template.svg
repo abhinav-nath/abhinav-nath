@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="{svg_width}" height="{svg_height}" viewBox="0 0 {svg_width} {svg_height}">
+	<style>
+	    .bubble {
+	      fill: #e9e9eb;
+	      stroke: #dcdcdc;
+	      stroke-width: 2;
+	    }
+	    text {
+	      fill: #242424;
+	      font-size: 18px;
+	      font-family: 'Inter', sans-serif;
+	      letter-spacing: -0.02em;
+	    }
+	    .fact-text {
+	      font-style: italic;
+	    }
+	    @media (prefers-color-scheme: dark) {
+	      .bubble {
+	        fill: #3b3b3d;
+	        stroke: #5a5a5c;
+	      }
+	      text {
+	        fill: #dcdcdc;
+	      }
+	    }
+	</style>
+
+	<g>
+	    <!-- Background Box -->
+	    <rect class="bubble" x="10" y="10" width="{box_width}" height="{box_height}" rx="15"/>
+
+	    <!-- Tech Fact -->
+	    {fact_lines}
+	</g>
+</svg>
