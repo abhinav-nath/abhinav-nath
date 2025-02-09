@@ -97,12 +97,6 @@ Here is my short dev [portfolio](https://abhinav-nath.github.io/portfolio/).
 
 [![@abhinavnath's Holopin board](https://holopin.me/abhinavnath)](https://holopin.io/@abhinavnath)
 
-## Random Programming Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Random Programming Quote" />
-</p>
-
 ## Tech Fact of the day
 
 <p align="center">
