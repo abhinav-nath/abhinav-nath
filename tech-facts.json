@@ -1,0 +1,50 @@
+[
+    {
+        "fact": "The first computer virus was created in 1986 and was called Brain.",
+        "source": "https://en.wikipedia.org/wiki/Brain_(computer_virus)"
+    },
+    {
+        "fact": "Python is named after 'Monty Python', not the snake.",
+        "source": "https://docs.python.org/3/faq/general.html#why-is-it-called-python"
+    },
+    {
+        "fact": "The first website ever created is still online: http://info.cern.ch",
+        "source": "http://info.cern.ch"
+    },
+    {
+        "fact": "The first mouse prototype was made of wood in 1964 by Douglas Engelbart.",
+        "source": "https://en.wikipedia.org/wiki/Computer_mouse"
+    },
+    {
+        "fact": "NASA's Mars Rover, Perseverance, runs on a PowerPC 750 processor—the same as an old iMac G3.",
+        "source": "https://mars.nasa.gov/resources/24943/perseverance-rover-computer-hardware/"
+    },
+    {
+        "fact": "Google was originally called 'Backrub' before being renamed in 1997.",
+        "source": "https://www.google.com/about/"
+    },
+    {
+        "fact": "The first email was sent by Ray Tomlinson to himself in 1971.",
+        "source": "https://en.wikipedia.org/wiki/Ray_Tomlinson"
+    },
+    {
+        "fact": "Elon Musk's Tesla Roadster, launched into space, is expected to orbit the Sun for millions of years.",
+        "source": "https://www.whereisroadster.com/"
+    },
+    {
+        "fact": "Amazon was originally called 'Cadabra', but was changed because it sounded like 'Cadaver'.",
+        "source": "https://en.wikipedia.org/wiki/Amazon_(company)"
+    },
+    {
+        "fact": "The first smartphone was made in 1992 by IBM. It was called 'Simon' and had a touchscreen.",
+        "source": "https://en.wikipedia.org/wiki/IBM_Simon"
+    },
+    {
+        "fact": "Bill Gates wrote a tic-tac-toe game in BASIC as one of his first programs.",
+        "source": "https://en.wikipedia.org/wiki/Bill_Gates"
+    },
+    {
+        "fact": "The world's first 1GB hard drive was introduced by IBM in 1980. It weighed over 500 pounds.",
+        "source": "https://www.ibm.com/ibm/history/exhibits/storage/storage_3380.html"
+    }
+]
