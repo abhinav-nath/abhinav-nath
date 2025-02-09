@@ -30,8 +30,8 @@
 	    <rect class="bubble" x="10" y="10" width="463" height="118" rx="15"/>
 
 	    <!-- Tech Fact -->
-	    <text class="fact-text" x="30" y="60">The first website ever created is still online:</text>
-<text class="fact-text" x="30" y="84">http://info.cern.ch</text>
+	    <text class="fact-text" x="30" y="60">Bill Gates wrote a tic-tac-toe game in BASIC as</text>
+<text class="fact-text" x="30" y="84">one of his first programs.</text>
 
 	</g>
 </svg>
