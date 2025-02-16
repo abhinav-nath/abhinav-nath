@@ -99,6 +99,8 @@ Here is my short dev [portfolio](https://abhinav-nath.github.io/portfolio/).
 
 ## Tech Fact of the day
 
+The below is built using [this](https://github.com/abhinav-nath/abhinav-nath/blob/master/generate_tech_fact_svg.py) Python script, which runs daily at 12 AM UTC via [this](https://github.com/abhinav-nath/abhinav-nath/blob/master/.github/workflows/update-readme.yml) GitHub Action.
+
 <p align="center">
   <img src="https://github.com/abhinav-nath/abhinav-nath/blob/master/tech-fact.svg" alt="Tech Fact of the day" />
 </p>
