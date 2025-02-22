@@ -30,8 +30,8 @@
 	    <rect class="bubble" x="10" y="10" width="436" height="118" rx="15"/>
 
 	    <!-- Tech Fact -->
-	    <text class="fact-text" x="30" y="60">The first email was sent by Ray Tomlinson to</text>
-<text class="fact-text" x="30" y="84">himself in 1971.</text>
+	    <text class="fact-text" x="30" y="60">The Java compiler is written in Java itself,</text>
+<text class="fact-text" x="30" y="84">making it a self-hosting compiler.</text>
 
 	</g>
 </svg>
