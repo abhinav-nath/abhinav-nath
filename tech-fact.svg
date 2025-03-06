@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="456" height="152" viewBox="0 0 456 152">
+<svg xmlns="http://www.w3.org/2000/svg" width="510" height="152" viewBox="0 0 510 152">
 	<style>
 	    .bubble {
 	      fill: #e9e9eb;
@@ -27,12 +27,12 @@
 
 	<g>
 	    <!-- Background Box -->
-	    <rect class="bubble" x="10" y="10" width="436" height="142" rx="15"/>
+	    <rect class="bubble" x="10" y="10" width="490" height="142" rx="15"/>
 
 	    <!-- Tech Fact -->
-	    <text class="fact-text" x="30" y="60">Java has a hidden 'Unsafe' class that allows</text>
-<text class="fact-text" x="30" y="84">direct memory manipulation, much like C/C++</text>
-<text class="fact-text" x="30" y="108">pointers.</text>
+	    <text class="fact-text" x="30" y="60">Java's 'String' class is immutable, but the JVM</text>
+<text class="fact-text" x="30" y="84">internally optimizes string concatenation to avoid</text>
+<text class="fact-text" x="30" y="108">excessive object creation.</text>
 
 	</g>
 </svg>
