@@ -30,9 +30,9 @@
 	    <rect class="bubble" x="10" y="10" width="490" height="142" rx="15"/>
 
 	    <!-- Tech Fact -->
-	    <text class="fact-text" x="30" y="60">In Java, 'Integer.valueOf()' caches values between</text>
-<text class="fact-text" x="30" y="84">-128 and 127 to improve performance and reduce</text>
-<text class="fact-text" x="30" y="108">memory usage.</text>
+	    <text class="fact-text" x="30" y="60">The earliest versions of Java had built-in support</text>
+<text class="fact-text" x="30" y="84">for IPv6 before many operating systems fully</text>
+<text class="fact-text" x="30" y="108">adopted it.</text>
 
 	</g>
 </svg>
