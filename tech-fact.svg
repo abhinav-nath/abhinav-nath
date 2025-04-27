@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="483" height="128" viewBox="0 0 483 128">
+<svg xmlns="http://www.w3.org/2000/svg" width="492" height="152" viewBox="0 0 492 152">
 	<style>
 	    .bubble {
 	      fill: #e9e9eb;
@@ -27,11 +27,12 @@
 
 	<g>
 	    <!-- Background Box -->
-	    <rect class="bubble" x="10" y="10" width="463" height="118" rx="15"/>
+	    <rect class="bubble" x="10" y="10" width="472" height="142" rx="15"/>
 
 	    <!-- Tech Fact -->
-	    <text class="fact-text" x="30" y="60">The first website ever created is still online:</text>
-<text class="fact-text" x="30" y="84">http://info.cern.ch</text>
+	    <text class="fact-text" x="30" y="60">Java was originally designed for interactive</text>
+<text class="fact-text" x="30" y="84">television, but it was too advanced for cable TV</text>
+<text class="fact-text" x="30" y="108">in 1991.</text>
 
 	</g>
 </svg>
