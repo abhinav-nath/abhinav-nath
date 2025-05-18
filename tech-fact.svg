@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="510" height="152" viewBox="0 0 510 152">
+<svg xmlns="http://www.w3.org/2000/svg" width="492" height="128" viewBox="0 0 492 128">
 	<style>
 	    .bubble {
 	      fill: #e9e9eb;
@@ -27,12 +27,11 @@
 
 	<g>
 	    <!-- Background Box -->
-	    <rect class="bubble" x="10" y="10" width="490" height="142" rx="15"/>
+	    <rect class="bubble" x="10" y="10" width="472" height="118" rx="15"/>
 
 	    <!-- Tech Fact -->
-	    <text class="fact-text" x="30" y="60">The JIT compiler in the JVM can inline methods at</text>
-<text class="fact-text" x="30" y="84">runtime, even those that were originally marked as</text>
-<text class="fact-text" x="30" y="108">'virtual'.</text>
+	    <text class="fact-text" x="30" y="60">The first computer virus was created in 1986 and</text>
+<text class="fact-text" x="30" y="84">was called Brain.</text>
 
 	</g>
 </svg>
