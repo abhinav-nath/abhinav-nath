@@ -106,5 +106,45 @@
 	{
 		"fact": "In Java, 'Integer.valueOf()' caches values between -128 and 127 to improve performance and reduce memory usage.",
 		"source": "https://docs.oracle.com/javase/8/docs/api/java/lang/Integer.html#valueOf-int-"
+	},
+	{
+		"fact": "The term 'bug' in computing originated when a real moth was found causing issues in a Mark II computer in 1947.",
+		"source": "https://www.computerhistory.org/tdih/september/9/"
+	},
+	{
+		"fact": "Dennis Ritchie, the creator of the C programming language, also co-developed the UNIX operating system.",
+		"source": "https://en.wikipedia.org/wiki/Dennis_Ritchie"
+	},
+	{
+		"fact": "The Linux kernel was first released by Linus Torvalds in 1991 as a hobby project.",
+		"source": "https://en.wikipedia.org/wiki/Linux"
+	},
+	{
+		"fact": "The original iPhone had more computing power than NASA’s Apollo 11 spacecraft.",
+		"source": "https://www.nasa.gov/specials/apollo50th/back.html"
+	},
+	{
+		"fact": "Git, the version control system, was created by Linus Torvalds in 2005 to manage Linux kernel development.",
+		"source": "https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git"
+	},
+	{
+		"fact": "The first webcam was used at Cambridge University to monitor a coffee pot.",
+		"source": "https://www.cl.cam.ac.uk/coffee/qsf.html"
+	},
+	{
+		"fact": "CAPTCHA stands for 'Completely Automated Public Turing test to tell Computers and Humans Apart'.",
+		"source": "https://en.wikipedia.org/wiki/CAPTCHA"
+	},
+	{
+		"fact": "Ctrl + Alt + Delete was originally used by developers to reboot IBM PCs during system crashes.",
+		"source": "https://www.ibm.com/blogs/industries/ctrl-alt-del-turns-35/"
+	},
+	{
+		"fact": "Y2K was feared to crash computers worldwide, but thanks to years of effort, the impact was minimal.",
+		"source": "https://www.history.com/topics/21st-century/y2k"
+	},
+	{
+		"fact": "Ada Lovelace is considered the first computer programmer, writing an algorithm in the mid-1800s for Charles Babbage’s Analytical Engine.",
+		"source": "https://en.wikipedia.org/wiki/Ada_Lovelace"
 	}
 ]
