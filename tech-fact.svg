@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="483" height="128" viewBox="0 0 483 128">
+<svg xmlns="http://www.w3.org/2000/svg" width="510" height="152" viewBox="0 0 510 152">
 	<style>
 	    .bubble {
 	      fill: #e9e9eb;
@@ -27,11 +27,12 @@
 
 	<g>
 	    <!-- Background Box -->
-	    <rect class="bubble" x="10" y="10" width="463" height="118" rx="15"/>
+	    <rect class="bubble" x="10" y="10" width="490" height="142" rx="15"/>
 
 	    <!-- Tech Fact -->
-	    <text class="fact-text" x="30" y="60">Bill Gates wrote a tic-tac-toe game in BASIC as</text>
-<text class="fact-text" x="30" y="84">one of his first programs.</text>
+	    <text class="fact-text" x="30" y="60">The earliest versions of Java had built-in support</text>
+<text class="fact-text" x="30" y="84">for IPv6 before many operating systems fully</text>
+<text class="fact-text" x="30" y="108">adopted it.</text>
 
 	</g>
 </svg>
