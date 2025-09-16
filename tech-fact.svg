@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="492" height="152" viewBox="0 0 492 152">
+<svg xmlns="http://www.w3.org/2000/svg" width="492" height="128" viewBox="0 0 492 128">
 	<style>
 	    .bubble {
 	      fill: #e9e9eb;
@@ -27,12 +27,11 @@
 
 	<g>
 	    <!-- Background Box -->
-	    <rect class="bubble" x="10" y="10" width="472" height="142" rx="15"/>
+	    <rect class="bubble" x="10" y="10" width="472" height="118" rx="15"/>
 
 	    <!-- Tech Fact -->
-	    <text class="fact-text" x="30" y="60">The 'transient' keyword in Java prevents a field</text>
-<text class="fact-text" x="30" y="84">from being serialized, which is useful for</text>
-<text class="fact-text" x="30" y="108">security-sensitive data.</text>
+	    <text class="fact-text" x="30" y="60">CAPTCHA stands for 'Completely Automated Public</text>
+<text class="fact-text" x="30" y="84">Turing test to tell Computers and Humans Apart'.</text>
 
 	</g>
 </svg>
