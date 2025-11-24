@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="438" height="152" viewBox="0 0 438 152">
+<svg xmlns="http://www.w3.org/2000/svg" width="465" height="128" viewBox="0 0 465 128">
 	<style>
 	    .bubble {
 	      fill: #e9e9eb;
@@ -27,12 +27,11 @@
 
 	<g>
 	    <!-- Background Box -->
-	    <rect class="bubble" x="10" y="10" width="418" height="142" rx="15"/>
+	    <rect class="bubble" x="10" y="10" width="445" height="118" rx="15"/>
 
 	    <!-- Tech Fact -->
-	    <text class="fact-text" x="30" y="60">Ctrl + Alt + Delete was originally used by</text>
-<text class="fact-text" x="30" y="84">developers to reboot IBM PCs during system</text>
-<text class="fact-text" x="30" y="108">crashes.</text>
+	    <text class="fact-text" x="30" y="60">Python is named after 'Monty Python', not the</text>
+<text class="fact-text" x="30" y="84">snake.</text>
 
 	</g>
 </svg>
