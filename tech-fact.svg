@@ -30,9 +30,9 @@
 	    <rect class="bubble" x="10" y="10" width="490" height="142" rx="15"/>
 
 	    <!-- Tech Fact -->
-	    <text class="fact-text" x="30" y="60">The earliest versions of Java had built-in support</text>
-<text class="fact-text" x="30" y="84">for IPv6 before many operating systems fully</text>
-<text class="fact-text" x="30" y="108">adopted it.</text>
+	    <text class="fact-text" x="30" y="60">The JIT compiler in the JVM can inline methods at</text>
+<text class="fact-text" x="30" y="84">runtime, even those that were originally marked as</text>
+<text class="fact-text" x="30" y="108">'virtual'.</text>
 
 	</g>
 </svg>
