@@ -30,8 +30,8 @@
 	    <rect class="bubble" x="10" y="10" width="472" height="118" rx="15"/>
 
 	    <!-- Tech Fact -->
-	    <text class="fact-text" x="30" y="60">The first computer virus was created in 1986 and</text>
-<text class="fact-text" x="30" y="84">was called Brain.</text>
+	    <text class="fact-text" x="30" y="60">CAPTCHA stands for 'Completely Automated Public</text>
+<text class="fact-text" x="30" y="84">Turing test to tell Computers and Humans Apart'.</text>
 
 	</g>
 </svg>
