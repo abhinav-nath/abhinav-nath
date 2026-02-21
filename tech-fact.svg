@@ -30,9 +30,9 @@
 	    <rect class="bubble" x="10" y="10" width="490" height="142" rx="15"/>
 
 	    <!-- Tech Fact -->
-	    <text class="fact-text" x="30" y="60">The Java Virtual Machine (JVM) specification</text>
-<text class="fact-text" x="30" y="84">allows multiple different implementations, such as</text>
-<text class="fact-text" x="30" y="108">OpenJDK, GraalVM, and Azul Zing.</text>
+	    <text class="fact-text" x="30" y="60">Even though Java has automatic garbage collection,</text>
+<text class="fact-text" x="30" y="84">memory leaks are still possible due to improper</text>
+<text class="fact-text" x="30" y="108">handling of references.</text>
 
 	</g>
 </svg>
