@@ -30,9 +30,9 @@
 	    <rect class="bubble" x="10" y="10" width="454" height="142" rx="15"/>
 
 	    <!-- Tech Fact -->
-	    <text class="fact-text" x="30" y="60">Java supports method overloading based on the</text>
-<text class="fact-text" x="30" y="84">number, type, and order of parameters, but not</text>
-<text class="fact-text" x="30" y="108">based on the return type alone.</text>
+	    <text class="fact-text" x="30" y="60">The 'volatile' keyword in Java does not make a</text>
+<text class="fact-text" x="30" y="84">variable atomic; it only ensures visibility of</text>
+<text class="fact-text" x="30" y="108">changes to multiple threads.</text>
 
 	</g>
 </svg>
