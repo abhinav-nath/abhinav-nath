@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="510" height="152" viewBox="0 0 510 152">
+<svg xmlns="http://www.w3.org/2000/svg" width="501" height="152" viewBox="0 0 501 152">
 	<style>
 	    .bubble {
 	      fill: #e9e9eb;
@@ -27,12 +27,12 @@
 
 	<g>
 	    <!-- Background Box -->
-	    <rect class="bubble" x="10" y="10" width="490" height="142" rx="15"/>
+	    <rect class="bubble" x="10" y="10" width="481" height="142" rx="15"/>
 
 	    <!-- Tech Fact -->
-	    <text class="fact-text" x="30" y="60">In Java, 'Integer.valueOf()' caches values between</text>
-<text class="fact-text" x="30" y="84">-128 and 127 to improve performance and reduce</text>
-<text class="fact-text" x="30" y="108">memory usage.</text>
+	    <text class="fact-text" x="30" y="60">The HotSpot JVM uses 'escape analysis' to</text>
+<text class="fact-text" x="30" y="84">eliminate unnecessary object allocations and make</text>
+<text class="fact-text" x="30" y="108">heap usage more efficient.</text>
 
 	</g>
 </svg>
