@@ -30,9 +30,9 @@
 	    <rect class="bubble" x="10" y="10" width="472" height="142" rx="15"/>
 
 	    <!-- Tech Fact -->
-	    <text class="fact-text" x="30" y="60">The 'transient' keyword in Java prevents a field</text>
-<text class="fact-text" x="30" y="84">from being serialized, which is useful for</text>
-<text class="fact-text" x="30" y="108">security-sensitive data.</text>
+	    <text class="fact-text" x="30" y="60">Elon Musk's Tesla Roadster, launched into space,</text>
+<text class="fact-text" x="30" y="84">is expected to orbit the Sun for millions of</text>
+<text class="fact-text" x="30" y="108">years.</text>
 
 	</g>
 </svg>
