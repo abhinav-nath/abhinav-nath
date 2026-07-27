@@ -75,10 +75,11 @@ Here is my short dev [portfolio](https://abhinav-nath.github.io/portfolio/).
 
 ### ⌨️ My latest projects
 
+- [React Habit Tracker](https://github.com/abhinav-nath/react-habit-tracker)
+- [All about Tailwind](https://github.com/abhinav-nath/all-about-tailwind)
 - [Java CodeRunner API](https://github.com/abhinav-nath/java-coderunner-api)
 - [eBird Recent Observations](https://github.com/abhinav-nath/ebird-recent-observations)
 - [Feature Toggles using FF4J](https://github.com/abhinav-nath/feature-toggles-using-ff4j)
-- [MongoDB Bulk Operations](https://github.com/abhinav-nath/mongo-bulk-operations-test)
 
 ### GitHub Stats
 
