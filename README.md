@@ -11,7 +11,7 @@ Here is my short dev [portfolio](https://abhinav-nath.github.io/portfolio/).
 
 
 <details>
-  <summary><b>Tech Stack I have worked on</b></summary>
+  <summary><b>Tech Stack I have worked on</b> (click to expand)</summary>
   <br/>
   <p align="left">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
@@ -27,6 +27,7 @@ Here is my short dev [portfolio](https://abhinav-nath.github.io/portfolio/).
     <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch" alt="ElasticSearch"/>
     <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white" alt="Kibana"/>
     <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" alt="Apache Spark"/>
+    <img src="https://img.shields.io/badge/Databricks-181825?style=flat-square&logo=databricks" alt="Databricks"/>
     <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens" alt="JWT"/>
     <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=white" alt="Cassandra"/>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -35,6 +36,7 @@ Here is my short dev [portfolio](https://abhinav-nath.github.io/portfolio/).
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" alt="Oracle"/>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="NextJS"/>
     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
@@ -63,6 +65,7 @@ Here is my short dev [portfolio](https://abhinav-nath.github.io/portfolio/).
     <img src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0" alt="MacOS"/>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
     <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT"/>
+    <img src="https://img.shields.io/badge/Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white" alt="Copilot"/>
   </p>
 </details>
 
