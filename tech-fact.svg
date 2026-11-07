@@ -30,8 +30,8 @@
 	    <rect class="bubble" x="10" y="10" width="490" height="118" rx="15"/>
 
 	    <!-- Tech Fact -->
-	    <text class="fact-text" x="30" y="60">NASA's Mars Rover, Perseverance, runs on a PowerPC</text>
-<text class="fact-text" x="30" y="84">750 processor—the same as an old iMac G3.</text>
+	    <text class="fact-text" x="30" y="60">Y2K was feared to crash computers worldwide, but</text>
+<text class="fact-text" x="30" y="84">thanks to years of effort, the impact was minimal.</text>
 
 	</g>
 </svg>
