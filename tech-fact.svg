@@ -30,9 +30,9 @@
 	    <rect class="bubble" x="10" y="10" width="472" height="142" rx="15"/>
 
 	    <!-- Tech Fact -->
-	    <text class="fact-text" x="30" y="60">Elon Musk's Tesla Roadster, launched into space,</text>
-<text class="fact-text" x="30" y="84">is expected to orbit the Sun for millions of</text>
-<text class="fact-text" x="30" y="108">years.</text>
+	    <text class="fact-text" x="30" y="60">Dennis Ritchie, the creator of the C programming</text>
+<text class="fact-text" x="30" y="84">language, also co-developed the UNIX operating</text>
+<text class="fact-text" x="30" y="108">system.</text>
 
 	</g>
 </svg>
